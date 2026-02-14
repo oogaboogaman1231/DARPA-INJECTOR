@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DarpaInjector.Core", "DarpaInjector.Core\DarpaInjector.Core.vcxproj", "{4AF68C96-6725-470E-B8F7-9426D3784196}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DarpaInjector.UI", "DarpaInjector.UI\DarpaInjector.UI.csproj", "{D982C953-6C78-4350-9E3A-F9C3E5280951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AF68C96-6725-470E-B8F7-9426D3784196}.Debug|x64.ActiveCfg = Debug|x64
+		{4AF68C96-6725-470E-B8F7-9426D3784196}.Debug|x64.Build.0 = Debug|x64
+		{4AF68C96-6725-470E-B8F7-9426D3784196}.Release|x64.ActiveCfg = Release|x64
+		{4AF68C96-6725-470E-B8F7-9426D3784196}.Release|x64.Build.0 = Release|x64
+		{D982C953-6C78-4350-9E3A-F9C3E5280951}.Debug|x64.ActiveCfg = Debug|x64
+		{D982C953-6C78-4350-9E3A-F9C3E5280951}.Debug|x64.Build.0 = Debug|x64
+		{D982C953-6C78-4350-9E3A-F9C3E5280951}.Release|x64.ActiveCfg = Release|x64
+		{D982C953-6C78-4350-9E3A-F9C3E5280951}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
